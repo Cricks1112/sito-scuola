@@ -1,0 +1,20 @@
+body {
+	background-color: #99ccff;
+}
+	
+.foto-scuola {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+	
+.indirizzi-immagini img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.indirizzi {
+	display: flex;
+	text-align: center;
+}
